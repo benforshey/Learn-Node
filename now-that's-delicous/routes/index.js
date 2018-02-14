@@ -1,9 +1,9 @@
 const express = require('express');
+const storeConroller = require('../controllers/storeController');
+
 const router = express.Router();
 
 // Do work here
-router.get('/', (req, res) => {
-  res.send('Hey! It works!');
-});
+router.get('/', storeConroller.homePage);
 
 module.exports = router;

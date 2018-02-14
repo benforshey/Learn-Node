@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:317,01 - Getting Setup.mp4
+file:///Users/ben/Movies/Learn-Node/01%20-%20Getting%20Setup.mp4
+#EXTINF:570,02 - Setting up Mongo DB.mp4
+file:///Users/ben/Movies/Learn-Node/02%20-%20Setting%20up%20Mongo%20DB.mp4
+#EXTINF:454,03 - Starter Files and Environmental Variables.mp4
+file:///Users/ben/Movies/Learn-Node/03%20-%20Starter%20Files%20and%20Environmental%20Variables.mp4
+#EXTINF:618,04 - Core Concept - Routing.mp4
+file:///Users/ben/Movies/Learn-Node/04%20-%20Core%20Concept%20-%20Routing.mp4
+#EXTINF:1008,05 - Core Concept - Templating.mp4
+file:///Users/ben/Movies/Learn-Node/05%20-%20Core%20Concept%20-%20Templating.mp4
+#EXTINF:384,06 - Core Concept - Template Helpers.mp4
+file:///Users/ben/Movies/Learn-Node/06%20-%20Core%20Concept%20-%20Template%20Helpers.mp4
+#EXTINF:409,07 - Core Concept - Controllers and the MVC Pattern.mp4
+file:///Users/ben/Movies/Learn-Node/07%20-%20Core%20Concept%20-%20Controllers%20and%20the%20MVC%20Pattern.mp4
+#EXTINF:852,08 - Core Concept - Middleware and Error Handling.mp4
+file:///Users/ben/Movies/Learn-Node/08%20-%20Core%20Concept%20-%20Middleware%20and%20Error%20Handling.mp4
+#EXTINF:721,09 - Creating our Store Model.mp4
+file:///Users/ben/Movies/Learn-Node/09%20-%20Creating%20our%20Store%20Model.mp4
+#EXTINF:1038,10 - Saving Stores and using Mixins.mp4
+file:///Users/ben/Movies/Learn-Node/10%20-%20Saving%20Stores%20and%20using%20Mixins.mp4
+#EXTINF:1050,11 - Using Async Await.mp4
+file:///Users/ben/Movies/Learn-Node/11%20-%20Using%20Async%20Await.mp4
+#EXTINF:651,12 - Flash Messages.mp4
+file:///Users/ben/Movies/Learn-Node/12%20-%20Flash%20Messages.mp4
+#EXTINF:756,13 - Querying our Database for Stores.mp4
+file:///Users/ben/Movies/Learn-Node/13%20-%20Querying%20our%20Database%20for%20Stores.mp4
+#EXTINF:1242,14 - Creating an Editing Flow for Stores.mp4
+file:///Users/ben/Movies/Learn-Node/14%20-%20Creating%20an%20Editing%20Flow%20for%20Stores.mp4
+#EXTINF:898,15 - Saving Lat and Lng for each store.mp4
+file:///Users/ben/Movies/Learn-Node/15%20-%20Saving%20Lat%20and%20Lng%20for%20each%20store.mp4
+#EXTINF:627,16 - Geocoding Data with Google Maps.mp4
+file:///Users/ben/Movies/Learn-Node/16%20-%20Geocoding%20Data%20with%20Google%20Maps.mp4
+#EXTINF:275,17 - Quick Data Visualization Tip.mp4
+file:///Users/ben/Movies/Learn-Node/17%20-%20Quick%20Data%20Visualization%20Tip.mp4
+#EXTINF:1408,18 - Uploading and Resizing Images with Middleware.mp4
+file:///Users/ben/Movies/Learn-Node/18%20-%20Uploading%20and%20Resizing%20Images%20with%20Middleware.mp4
+#EXTINF:809,19 - Routing and Templating Single Stores.mp4
+file:///Users/ben/Movies/Learn-Node/19%20-%20Routing%20and%20Templating%20Single%20Stores.mp4
+#EXTINF:395,20 - Using Pre-Save hooks to make Unique Slugs.mp4
+file:///Users/ben/Movies/Learn-Node/20%20-%20Using%20Pre-Save%20hooks%20to%20make%20Unique%20Slugs.mp4
+#EXTINF:1072,21 - Custom MongoDB Aggregations.mp4
+file:///Users/ben/Movies/Learn-Node/21%20-%20Custom%20MongoDB%20Aggregations.mp4
+#EXTINF:434,22 - Multiple Query Promises with Async Await.mp4
+file:///Users/ben/Movies/Learn-Node/22%20-%20Multiple%20Query%20Promises%20with%20Async%20Await.mp4
+#EXTINF:1806,23 - Creating User Accounts.mp4
+file:///Users/ben/Movies/Learn-Node/23%20-%20Creating%20User%20Accounts.mp4
+#EXTINF:999,24 - Saving Registered Users to the Database.mp4
+file:///Users/ben/Movies/Learn-Node/24%20-%20Saving%20Registered%20Users%20to%20the%20Database.mp4
+#EXTINF:625,25 - Virtual Fields, Login Logout middleware and Protecting Routes.mp4
+file:///Users/ben/Movies/Learn-Node/25%20-%20Virtual%20Fields%2C%20Login%20Logout%20middleware%20and%20Protecting%20Routes.mp4
+#EXTINF:484,26 - Creating a User Account Edit Screen.mp4
+file:///Users/ben/Movies/Learn-Node/26%20-%20Creating%20a%20User%20Account%20Edit%20Screen.mp4
+#EXTINF:1499,27 - Password Reset Flow.mp4
+file:///Users/ben/Movies/Learn-Node/27%20-%20Password%20Reset%20Flow.mp4
+#EXTINF:1194,28 - Sending email with Nodejs.mp4
+file:///Users/ben/Movies/Learn-Node/28%20-%20Sending%20email%20with%20Nodejs.mp4
+#EXTINF:845,29 - Locking down our application with User Permissions.mp4
+file:///Users/ben/Movies/Learn-Node/29%20-%20Locking%20down%20our%20application%20with%20User%20Permissions.mp4
+#EXTINF:310,30 - Loading Sample Data.mp4
+file:///Users/ben/Movies/Learn-Node/30%20-%20Loading%20Sample%20Data.mp4
+#EXTINF:912,31 - JSON endpoints and creating MongoDB Indexes.mp4
+file:///Users/ben/Movies/Learn-Node/31%20-%20JSON%20endpoints%20and%20creating%20MongoDB%20Indexes.mp4
+#EXTINF:1576,32 - Creating an Ajax Search Interface.mp4
+file:///Users/ben/Movies/Learn-Node/32%20-%20Creating%20an%20Ajax%20Search%20Interface.mp4
+#EXTINF:568,33 - Creating a Geospatial Ajax Endpoint.mp4
+file:///Users/ben/Movies/Learn-Node/33%20-%20Creating%20a%20Geospatial%20Ajax%20Endpoint.mp4
+#EXTINF:1594,34 - Plotting Stores on a Custom Google Map.mp4
+file:///Users/ben/Movies/Learn-Node/34%20-%20Plotting%20Stores%20on%20a%20Custom%20Google%20Map.mp4
+#EXTINF:1401,35 - Pushing User Data to our API.mp4
+file:///Users/ben/Movies/Learn-Node/35%20-%20Pushing%20User%20Data%20to%20our%20API.mp4
+#EXTINF:226,36 - Displaying our Hearted Stores.mp4
+file:///Users/ben/Movies/Learn-Node/36%20-%20Displaying%20our%20Hearted%20Stores.mp4
+#EXTINF:848,37 - Adding a Reviews Data Model.mp4
+file:///Users/ben/Movies/Learn-Node/37%20-%20Adding%20a%20Reviews%20Data%20Model.mp4
+#EXTINF:852,38 - Advanced Relationship Population - Displaying Our Reviews.mp4
+file:///Users/ben/Movies/Learn-Node/38%20-%20Advanced%20Relationship%20Population%20-%20Displaying%20Our%20Reviews.mp4
+#EXTINF:1371,39 - Advanced Aggregation.mp4
+file:///Users/ben/Movies/Learn-Node/39%20-%20Advanced%20Aggregation.mp4
+#EXTINF:754,40 - Implementing Pagination.mp4
+file:///Users/ben/Movies/Learn-Node/40%20-%20Implementing%20Pagination.mp4
+#EXTINF:384,41 - Deployment Setup.mp4
+file:///Users/ben/Movies/Learn-Node/41%20-%20Deployment%20Setup.mp4
+#EXTINF:333,42 - Deploying to Now.mp4
+file:///Users/ben/Movies/Learn-Node/42%20-%20Deploying%20to%20Now.mp4
+#EXTINF:301,43 - Deploying to Heroku.mp4
+file:///Users/ben/Movies/Learn-Node/43%20-%20Deploying%20to%20Heroku.mp4
+#EXTINF:750,44 - Deploying to Digital Ocean Linux.mp4
+file:///Users/ben/Movies/Learn-Node/44%20-%20Deploying%20to%20Digital%20Ocean%20Linux.mp4
